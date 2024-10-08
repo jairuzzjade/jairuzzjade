@@ -1,4 +1,5 @@
 const she = {};
+
 she.holds = "a Bachelor's Degree in Computer Engineering";
 she.is = ["a prayer warrior", "a member of the music ministry in church", "fast learner"];
 she.loves = ["God", "family", "city lights", "playing the guitar”, "web development”, "HTML/CSS/JavaScript”, "technology"];
